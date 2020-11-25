@@ -13,3 +13,6 @@ in this project:
 6. axios
 
 due to time  limitation state is not saved in cache using redux-persist.  
+
+branches - 
+end-of-v0.1 -> before a major change after code review.
