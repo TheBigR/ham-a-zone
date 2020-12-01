@@ -13,3 +13,10 @@ in this project:
 6. axios
 
 due to time  limitation state is not saved in cache using redux-persist.  
+
+things to do in v0.2
+
+a. combine reducers into 1 reducer.
+b. change action's payload.
+c. fix product id to match image id.
+d. convert to funtion components.
